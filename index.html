@@ -1,0 +1,15 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in paginator.posts %}
+
+<h2 id="{{ post.number }}">{{ post.title }}</h2>
+  <div class="flex-video widescreen youtube">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/{{post.yt}}?showinfo=1" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  {{ post.content }}
+
+{% endfor %}

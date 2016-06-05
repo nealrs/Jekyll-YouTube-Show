@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+
+  <section class="header">
+    <div class="row">
+      <div class="large-12 columns">
+        <img src="{{ site.baseurl }}public/img/devpost-commit-logo.svg">
+
+        <p class="large">A weekly show about software developers, hackathons, and getting a job<br>Hosted by Richard Murby &amp; Neal Shyam</p>
+
+        <div class="row">
+          <div class="large-6 large-offset-3 small-8 small-offset-2 columns">
+            <a href="https://www.youtube.com/channel/UC7QnMsfuWDf6EXC5JxYduPQ?sub_confirmation=1" class="button" target="_blank"><i class="fa fa-fw fa-youtube-play"></i> Subscribe on YouTube</a>
+
+            <a href="https://itunes.apple.com/us/podcast/the-commit/id1031089820?mt=2" class="button alt" target="_blank"><i class="fa fa-fw fa-apple"></i> Subscribe on iTunes</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="row">
+  </section>
+
+  <section class="content">
+    <div class="row">
+      <div class="large-8 large-offset-2 columns">
+        <div class="podcast_list">
+          {{content}}
+        </div>
+        <hr>
+        <div style="text-align:center;">
+					<a href="https://www.youtube.com/playlist?list=PLmJ41elIxG7bRbhhCUQun3e4XNeyKc_-o" class="button alt" target="_blank">Watch more episodes on YouTube</a>
+				</div>
+
+      </div> <!-- end right column (large-8) -->
+    </div> <!-- end row -->
+  </section>
+
+</body>
+</html>

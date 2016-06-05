@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Devpost Commit</title>
+    <link>http://commit.devpost.com</link>
+    <itunes:author>Devpost Inc.</itunes:author>
+    <copyright>&#xA9; Devpost Inc.</copyright>
+    <language>en-us</language>
+    <pubDate>Sun, 05 Jun 2016 14:38:41 -0400</pubDate>
+    <lastBuildDate>Sun, 05 Jun 2016 14:38:41 -0400</lastBuildDate>
+    <itunes:category text="Technology">
+      
+      <itunes:category text="Tech News"/>
+      
+    </itunes:category>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://devpostcommit.s3.amazonaws.com/art.jpg"/>
+    <itunes:subtitle>Hiring, hackers, hackathons</itunes:subtitle>
+    <description>Devpost's weekly show about software developers, hackathons, and getting a job in tech. Hosted by Richard Murby and Neal Shyam. New episodes hit the street every Thursday!
+</description>
+    <itunes:summary>Devpost's weekly show about software developers, hackathons, and getting a job in tech. Hosted by Richard Murby and Neal Shyam. New episodes hit the street every Thursday!
+</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Devpost Inc.</itunes:name>
+      <itunes:email>info@devpost.com</itunes:email>
+    </itunes:owner>
+
+    
+    <item>
+      <title>Don't sweat it with Cassidy Williams</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>323.0</itunes:duration>
+      <pubDate>Thu, 02 Jun 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>How to conquer impostor syndrome and career tips</itunes:subtitle>
+      <itunes:summary><![CDATA[Feeling anxious about finding a job? Relax, you’re awesome! But, if you need some tips, we got your back. This week, Clarifai’s Cassidy Williams joins us to chat about our Student Hacker Report, conquering impostor syndrome, and lots more.
+]]></itunes:summary>
+      <description><![CDATA[<p>Feeling anxious about finding a job? Relax, you’re awesome! But, if you need some tips, we got your back. This week, <a href="https://www.clarifai.com/">Clarifai</a>’s Cassidy Williams joins us to chat about our <a href="http://studenthackers.devpost.com">Student Hacker Report</a>, conquering impostor syndrome, and lots more.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c42.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="45238620" url="http://devpostcommit.s3.amazonaws.com/video/c42.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Inside Digital Ocean</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>393.0</itunes:duration>
+      <pubDate>Thu, 26 May 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Meet DO's developers and tour their office</itunes:subtitle>
+      <itunes:summary><![CDATA[In this week’s special episode, Richard went to DigitalOcean this week to learn about their dev team’s current projects, structure, culture (46% of the team is remote), and more. Watch our special and see what it’s like to work Inside Digital Ocean!
+
+Want more information about DO’s hiring process, team, and open jobs? Visit their team page on Devpost.
+]]></itunes:summary>
+      <description><![CDATA[<p>In this week’s special episode, Richard went to DigitalOcean this week to learn about their dev team’s current projects, structure, culture (46% of the team is remote), and more. Watch our special and see what it’s like to work Inside Digital Ocean!</p><p>Want more information about DO’s hiring process, team, and open jobs? <a href="http://devpost.com/teams/digitalocean">Visit their team page</a> on Devpost.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/se2.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="56492072" url="http://devpostcommit.s3.amazonaws.com/video/se2.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Decoding job listings Part 2</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>380.0</itunes:duration>
+      <pubDate>Thu, 19 May 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Good job listings and what to focus on</itunes:subtitle>
+      <itunes:summary><![CDATA[Tech job listings can be pretty cringeworthy. Last week we showed you how to identify bad listings, so today we’ll look at a better, more informative one. We’ll show you how to quickly scan through a listing and what to focus on when you apply.
+
+Staff picks: AlexaWebBot - Use Alexa to navigate and control any website &amp; Bumperz - A dashcam that warns drivers about dangerous road conditions
+]]></itunes:summary>
+      <description><![CDATA[<p>Tech job listings can be pretty cringeworthy. Last week we showed you how to identify bad listings, so today we’ll look at a better, more informative one. We’ll show you how to quickly scan through a listing and what to focus on when you apply.</p><p>Staff picks: <a href="http://devpost.com/software/alexabot">AlexaWebBot</a> - Use Alexa to navigate and control any website &amp; <a href="http://devpost.com/software/bumperz">Bumperz</a> - A dashcam that warns drivers about dangerous road conditions</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c41.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="52476582" url="http://devpostcommit.s3.amazonaws.com/video/c41.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Decoding job listings Part 2</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>329.0</itunes:duration>
+      <pubDate>Thu, 12 May 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Bonus: Let's plays from the Global Archiact Jam</itunes:subtitle>
+      <itunes:summary><![CDATA[Job listings are a hot mess. They mix requirements and benefits with statements like “we’re looking for passionate astro-coder-nauts for a rocket ride to the future.” But if you know how to read between the lines, you can quickly sift out good opportunities from bad ones.
+
+We’ve also got a special VR treat for you from Ryan Zehm and the Global Archiact Jam.
+]]></itunes:summary>
+      <description><![CDATA[<p>Job listings are a hot mess. They mix requirements and benefits with statements like “we’re looking for passionate astro-coder-nauts for a rocket ride to the future.” But if you know how to read between the lines, you can quickly sift out good opportunities from bad ones.</p><p>We’ve also got a special VR treat for you from <a href="http://www.nurfacegames.com/">Ryan Zehm</a> and the <a href="http://globalarchiactjam.devpost.com/submissions">Global Archiact Jam</a>.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c40.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="56854141" url="http://devpostcommit.s3.amazonaws.com/video/c40.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>All about phone interview with Meetup</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>252.0</itunes:duration>
+      <pubDate>Thu, 05 May 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[What’s a phone screen? (Hint: it comes before an interview, but after you apply) How do you prepare for it? What should you look out for? Meetup’s Jake Levine has all the answers in this week’s episode.
+
+Staff picks: Money accordion - play the accordion using openCV + a dollar bill &amp; EmotionPinTumbler - Emotion controlled locking mechanism
+]]></itunes:summary>
+      <description><![CDATA[<p>What’s a phone screen? (Hint: it comes before an interview, but after you apply) How do you prepare for it? What should you look out for? Meetup’s Jake Levine has all the answers in this week’s episode.</p><p>Staff picks: <a href="http://devpost.com/software/money-accordion">Money accordion</a> - play the accordion using openCV + a dollar bill &amp; <a href="http://devpost.com/software/emotionpintumbler">EmotionPinTumbler</a> - Emotion controlled locking mechanism</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c39.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="43787709" url="http://devpostcommit.s3.amazonaws.com/video/c39.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>How to not suck at job fairs</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>414.0</itunes:duration>
+      <pubDate>Thu, 28 Apr 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[Richard’s been going to a lot of job fairs and he’s disappointed. Job seekers, you need to make a better effort and come prepared. But enough complaining, we’re here to help! So take our advice:
+
+Prepare (Google the company before you walk up)
+
+Engage (ask a question / make a suggestion)
+
+Follow up up (email within 24 hours)
+
+Staff picks: Stripr - 3D printed / configurable power strip &amp; Alexa Keep - Store &amp; retrieve anything with Alexa
+]]></itunes:summary>
+      <description><![CDATA[<p>Richard’s been going to a lot of job fairs and he’s disappointed. Job seekers, you need to make a better effort and come prepared. But enough complaining, we’re here to help! So take our advice:</p><p><strong>Prepare</strong> (Google the company before you walk up)</p><p><strong>Engage</strong> (ask a question / make a suggestion)</p><p><strong>Follow up</strong> up (email within 24 hours)</p><p>Staff picks: <a href="http://devpost.com/software/stripr">Stripr</a> - 3D printed / configurable power strip &amp; <a href="http://devpost.com/software/alexa-keep">Alexa Keep</a> - Store &amp; retrieve anything with Alexa</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c38.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="59347351" url="http://devpostcommit.s3.amazonaws.com/video/c38.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>The culture of fit with Meetup</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>465.0</itunes:duration>
+      <pubDate>Thu, 21 Apr 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[Culture fit, like “business casual,” can be interpreted in many different ways. So for this week’s episode, we asked Meetup Engineering Manager Rich Hsieh to tell us what he looks for when evaluating developers.
+
+We’ve also got news about this weekend’s Fishackathon and some killer staff picks:
+
+Autocolorization - Unleash your inner Ted Turner and colorize b&amp;w movies with deep learning &amp; Snapglasses - Design, print, and assemble your next pair of sunglasses
+]]></itunes:summary>
+      <description><![CDATA[<p>Culture fit, like “business casual,” can be interpreted in many different ways. So for this week’s episode, we asked Meetup Engineering Manager Rich Hsieh to tell us what he looks for when evaluating developers.</p><p>We’ve also got news about this weekend’s <a href="https://virtualfishackathon.eventbrite.com">Fishackathon</a> and some killer staff picks:</p><p><a href="http://devpost.com/software/autocolorization">Autocolorization</a> - Unleash your inner Ted Turner and colorize b&amp;w movies with deep learning &amp; <a href="http://devpost.com/software/snapglasses">Snapglasses</a> - Design, print, and assemble your next pair of sunglasses</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c37.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="80959615" url="http://devpostcommit.s3.amazonaws.com/video/c37.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Inside Devpost</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>Decoding Job Listings Part 2</itunes:duration>
+      <pubDate>Thu, 14 Apr 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Meet our team, see our office, and be awesome</itunes:subtitle>
+      <itunes:summary><![CDATA[In this week’s special, we’re taking a look inside Devpost (that’s us!). You’ll meet Holly &amp; Matt, who are in charge of Product and Engineering, learn how we build products, and see where we work. There may even be some ping pong.
+
+Visit our team page to learn more about Devpost, working on our team, and open positions.
+]]></itunes:summary>
+      <description><![CDATA[<p>In this week’s special, we’re taking a look inside Devpost (that’s us!). You’ll meet Holly &amp; Matt, who are in charge of Product and Engineering, learn how we build products, and see where we work. There may even be some ping pong.</p><p><a href="http://devpost.com/teams/devpost">Visit our team page</a> to learn more about Devpost, working on our team, and open positions.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/se1.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="56995742" url="http://devpostcommit.s3.amazonaws.com/video/se1.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Quiltside chat with MLH</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>455.0</itunes:duration>
+      <pubDate>Thu, 07 Apr 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Jon and Shy talk about the spring hackathon season</itunes:subtitle>
+      <itunes:summary><![CDATA[Since we’re halfway through the spring hackathon season, we thought it’d be a good time to reflect. So, we sent Richard over to Major League Hacking for a “quiltside chat” with Jon and Shy.
+
+Projects mentioned: Fire in the Hole, Spin to Win, Record Printer
+]]></itunes:summary>
+      <description><![CDATA[<p>Since we’re halfway through the spring hackathon season, we thought it’d be a good time to reflect. So, we sent Richard over to Major League Hacking for a “quiltside chat” with Jon and Shy.</p><p>Projects mentioned: <a href="http://devpost.com/software/fire-in-the-hole-13woej">Fire in the Hole</a>, <a href="http://devpost.com/software/spin-to-win">Spin to Win</a>, <a href="http://devpost.com/software/record-printer-t874gy">Record Printer</a></p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c36.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="86454022" url="http://devpostcommit.s3.amazonaws.com/video/c36.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Get your hands dirty with Jade Misenas</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>345.0</itunes:duration>
+      <pubDate>Thu, 31 Mar 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>Going from Hacker School to Clarifai</itunes:subtitle>
+      <itunes:summary><![CDATA[This week Richard talks to Jade from Clarifai about her experience at Hacker School. She tells us to get our hands dirty in code as we follow her from freelancing on WordPress themes to Hacker School to her latest gig at Clarifai.
+
+We’ve also got some great hardware hacks for you:  QuikCaption and SecretSet.
+]]></itunes:summary>
+      <description><![CDATA[<p>This week Richard talks to Jade from Clarifai about her experience at Hacker School. She tells us to get our hands dirty in code as we follow her from freelancing on WordPress themes to Hacker School to her latest gig at Clarifai.</p><p>We’ve also got some great hardware hacks for you: <a href="http://devpost.com/software/quikcaption"> QuikCaption</a> and <a href="http://devpost.com/software/secret-set">SecretSet</a>.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c35.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="48156515" url="http://devpostcommit.s3.amazonaws.com/video/c35.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Welcome (again) to Moviefone with David Burrick</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>408.0</itunes:duration>
+      <pubDate>Thu, 24 Mar 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>How large orgs hire and build tech teams</itunes:subtitle>
+      <itunes:summary><![CDATA[Remember Moviefone? It was the original smart phone app (key word: phone). This week, AOL Moviefone General Manager, David Burrick stops by to talk about how large organizations hire, build tech teams, what hiring managers look for, and how to make your application stand out.
+
+We’ve also got some great hardware hacks for you:  Alexa Jarvis and AR Watch.
+]]></itunes:summary>
+      <description><![CDATA[<p>Remember <a href="http://moviefone.com">Moviefone</a>? It was the original smart phone app (key word: <em>phone</em>). This week, AOL Moviefone General Manager, David Burrick stops by to talk about how large organizations hire, build tech teams, what hiring managers look for, and how to make your application stand out.</p><p>We’ve also got some great hardware hacks for you: <a href="http://devpost.com/software/alexa-jarvis"> Alexa Jarvis</a> and <a href="http://devpost.com/software/ar-watch">AR Watch</a>.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c34.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="91132728" url="http://devpostcommit.s3.amazonaws.com/video/c34.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Vim vs. the world</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>394.0</itunes:duration>
+      <pubDate>Thu, 17 Mar 2016 08:00:00 -0400</pubDate>
+      <itunes:subtitle>The great text editor debate is on!</itunes:subtitle>
+      <itunes:summary><![CDATA[Neal wanted to call this week’s episode, Rumble in the RegEx, but Richard was like “No, we’re gonna talk about text editors.” So yeah, we did a podcast about why we love Vim, Pico, Atom, and Sublime. But not Emacs.
+
+Special guest appearances from Devpost engineer and Ronan Potage and Greenhouse engineer (and Devpost alum!) Juan Müller.
+
+And of course, we’ve got the greatest staff picks OF ALL TIME: Kanye Rest and Ramsay
+]]></itunes:summary>
+      <description><![CDATA[<p>Neal wanted to call this week’s episode, <em>Rumble in the RegEx,</em> but Richard was like “No, we’re gonna talk about text editors.” So yeah, we did a podcast about why we love Vim, Pico, Atom, and Sublime. But not Emacs.</p><p>Special guest appearances from Devpost engineer and Ronan Potage and Greenhouse engineer (and Devpost alum!) Juan Müller.</p><p>And of course, we’ve got the greatest staff picks OF ALL TIME: <a href="http://devpost.com/software/kanye-rest">Kanye Rest</a> and <a href="http://devpost.com/software/ramsay">Ramsay</a></p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c33.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="80637867" url="http://devpostcommit.s3.amazonaws.com/video/c33.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>How to win bootcamp with Sarah Ransohoff</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>470.0</itunes:duration>
+      <pubDate>Thu, 10 Mar 2016 07:00:00 -0500</pubDate>
+      <itunes:subtitle>From Flatiron School to Venmo Engineer</itunes:subtitle>
+      <itunes:summary><![CDATA[This week, Venmo Engineer &amp; Flatiron School grad Sarah Ransohoff talks about getting interested in tech, going to a bootcamp, getting the most of the experience, conquering frustration, focusing on learning, getting a gig, and more!
+
+And as always, we’ve got two great staff picks for you:
+
+With Dreamote you can draw virtual buttons and use them to control a real Arduino with OpenCV.
+
+Netra uses your phone and Clarifai to describe the world around you in real-time.
+]]></itunes:summary>
+      <description><![CDATA[<p>This week, Venmo Engineer &amp; Flatiron School grad Sarah Ransohoff talks about getting interested in tech, going to a bootcamp, getting the most of the experience, conquering frustration, focusing on learning, getting a gig, and more!</p><p>And as always, we’ve got two great staff picks for you:</p><p>With <a href="http://devpost.com/software/dreamote">Dreamote</a> you can draw virtual buttons and use them to control a real Arduino with OpenCV.</p><p><a href="http://devpost.com/software/netra">Netra</a> uses your phone and Clarifai to describe the world around you in real-time.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c32.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="81077641" url="http://devpostcommit.s3.amazonaws.com/video/c32.mp4" type="video/mp4"/>
+    </item>
+    
+    <item>
+      <title>Cover letter hacks</title>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:author>Devpost Inc.</itunes:author>
+      <itunes:duration>467.0</itunes:duration>
+      <pubDate>Thu, 03 Mar 2016 07:00:00 -0500</pubDate>
+      <itunes:subtitle>You have to write them, might as well do it right!</itunes:subtitle>
+      <itunes:summary><![CDATA[This week, we’re focusing on everybody’s least favorite part of job hunting: COVER LETTERS! Brandon, our CEO, joins us to talk about why you need to them, what you should include, what will set yours apart, and what not to do.
+
+We’ve also got two great staff picks from SpartaHack: LearningLock, a neural network security layer for your Android and Wake, an alarm clock you can’t ignore.
+]]></itunes:summary>
+      <description><![CDATA[<p>This week, we’re focusing on everybody’s least favorite part of job hunting: COVER LETTERS! Brandon, our CEO, joins us to talk about why you need to them, what you should include, what will set yours apart, and what <em>not</em> to do.</p><p>We’ve also got two great staff picks from <a href="http://spartahack2016.devpost.com">SpartaHack</a>: <a href="http://devpost.com/software/learninglock">LearningLock</a>, a neural network security layer for your Android and <a href="http://devpost.com/software/wake-9eqwob">Wake</a>, an alarm clock you can’t ignore.</p>]]></description>
+      <guid isPermaLink="true">http://devpostcommit.s3.amazonaws.com/video/c31.mp4</guid>
+      <category>Technology</category>
+      <enclosure length="80488210" url="http://devpostcommit.s3.amazonaws.com/video/c31.mp4" type="video/mp4"/>
+    </item>
+    
+  </channel>
+</rss>

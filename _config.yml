@@ -1,0 +1,24 @@
+# Podcast basics
+license: "&#xA9; Devpost Inc."
+podcast:
+  title: The Devpost Commit
+  art: http://devpostcommit.s3.amazonaws.com/art.jpg
+  link: http://commit.devpost.com
+  category: Technology
+  subcategories:
+  - Tech News
+  subtitle: Hiring, hackers, hackathons
+  summary: >
+    Devpost's weekly show about software developers, hackathons, and getting a job in tech. Hosted by Richard Murby and Neal Shyam. New episodes hit the street every Thursday!
+author: "Devpost Inc."
+email: "info@devpost.com"
+
+video: "http://devpostcommit.s3.amazonaws.com/video/"
+audio: "http://devpostcommit.s3.amazonaws.com/audio/"
+stills: "http://devpostcommit.s3.amazonaws.com/img/"
+
+gems: [jekyll-paginate]
+paginate: 7
+
+timezone:         America/New_York
+TZ:               America/New_York
