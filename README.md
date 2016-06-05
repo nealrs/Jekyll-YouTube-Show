@@ -51,7 +51,7 @@ Step by step:
 
 11. If you're hosting your feed/site on GitHub with a custom domain, you must edit the `CNAME` file as well and push everything to `gh-pages` -- not master! If not, delete `CNAME`.
 
-12. Once your video feed validates, go to [FeedBurner](http://feedburder.com), burn the feed, turn on all the podcast stat features, and write down the URL. This is the URL you'll submit to iTunes when you setup your podcast. **FYI** if you're creating both audio & video feeds, you'll need to submit them to iTunes as separate podcasts. 
+12. Once your video feed validates, go to [FeedBurner](http://feedburner.com), burn the feed, turn on all the podcast stat features, and write down the URL. This is the URL you'll submit to iTunes when you setup your podcast. **FYI** if you're creating both audio & video feeds, you'll need to submit them to iTunes as separate podcasts. 
 
 13. Open up `_layouts/default.html` and update the show description, YouTube subscription link, iTunes mirror feed link, and watch more episodes on YouTube link. You can find the mirror feed link in the settings for your podcast submission. 
 
