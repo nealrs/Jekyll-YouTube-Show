@@ -4,7 +4,7 @@ Create an responsive landing page and iTunes compatible feeds for your YouTube s
 
 (podcast landing page and iTunes feed generator)
 
-[Demo landing page my show, The Commit](http://commit.devpost.com)and [Video feed](http://commit.devpost.com/video.xml)
+[Demo landing page my show, The Commit](http://commit.devpost.com) and [Video feed](http://commit.devpost.com/video.xml)
 
 ### Credits
 
