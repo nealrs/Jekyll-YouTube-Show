@@ -18,7 +18,7 @@ In a nutshell, you need to upload your media somewhere, edit a bunch of config s
 
 Step by step:
 
-1. Install the `jekyll` and the `jekyll-paginate` gems.
+1. Install the `jekyll` and the `jekyll-paginate` gems and create a new `gh-pages` branch.
 
 2. Setup an s3 bucket to host all your media files. 
 	- For the video feed, these will be the same mp4 files you uploaded to YouTube. 
