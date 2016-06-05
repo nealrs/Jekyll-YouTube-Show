@@ -49,7 +49,7 @@ Step by step:
 
 10. Commit your edits, push them to GitHub or generate upload them to your server, check that they are live, and then validate your feeds at http://podba.se/validate.
 
-11. If you're hosting your feed/site on GitHub with a custom domain, you must edit the `CNAME` file as well. If not, delete `CNAME`.
+11. If you're hosting your feed/site on GitHub with a custom domain, you must edit the `CNAME` file as well and push everything to `gh-pages` -- not master! If not, delete `CNAME`.
 
 12. Once your video feed validates, go to [FeedBurner](http://feedburder.com), burn the feed, turn on all the podcast stat features, and write down the URL. This is the URL you'll submit to iTunes when you setup your podcast. **FYI** if you're creating both audio & video feeds, you'll need to submit them to iTunes as separate podcasts. 
 
